@@ -75,7 +75,7 @@ The system integrates **12 piezoelectric discs** on a 33×33 cm platform with a 
 ## 📄 Project Report
 
 You can access the complete project documentation here:  
-[📘 **Footstep Power Generation using Piezoelectric Tiles – Full Report**](Footstep_Power_Generation_Using_Piezoelectric_Report.pdf)
+[📘 **Footstep Power Generation using Piezoelectric – Report**](Footstep_Power_Generation_Using_Piezoelectric_Report.pdf)
 
 ---
 
