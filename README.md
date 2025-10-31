@@ -71,6 +71,14 @@ The system integrates **12 piezoelectric discs** on a 33×33 cm platform with a 
 
 ---
 
+## 📄 Project Report
+
+You can access the complete project documentation here:  
+[📘 **Footstep Power Generation Using Piezoelectric Report**](Footstep_Power_Generation_Using_Piezoelectric.docx)
+
+The report covers experimental setup, data acquisition, signal analysis, and comparative evaluation of various HVIW methodologies, with supporting plots and discussion of results.
+
+
 ## 👨‍💻 Author
 **Shubham Kurre**  
 Mechanical Engineering | Energy Harvesting | Embedded Systems | Arduino  
